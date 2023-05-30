@@ -1,5 +1,16 @@
 # zkzk
 
+1. [Mobile environment characteristics](#mobile-environment-characteristics)
+2. [Usability testing. Early phase](#usability-testing-early-phase)
+3. [Mechanismus seskupování. Popište mechanismy použité na obrázku](#mechanismus-seskupování-popište-mechanismy-použité-na-obrázku)
+4. [Obrazovka email](#obrazovka-email)
+5. [Telefon a barvy](#telefon-a-barvy)
+6. [Popište, k jaké úpravě uživatelského rozhraní došlo](#popište-k-jaké-úpravě-uživatelského-rozhraní-došlo)
+7. [Gesty mapa](#gesty-mapa)
+8. [Design guidelines](#design-guidelines)
+9. [Fused location provider](#fused-location-provider)
+10. [Test usability. Later phase](#test-usability-later-phase)
+
 ## Mobile environment characteristics
 1) Omezené zobrazovací rozlišení: Mobilní zařízení mají menší displeje a nižší zobrazovací
 rozlišení než desktopové monitory. Vyžaduje se optimalizace uživatelského rozhraní a
